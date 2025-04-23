@@ -25,8 +25,8 @@
   },
   "webhook": {
     "discordWebhookUrl": "https://discord.com/api/webhooks/1364482866355900498/eBSpZxBsUcKB9s2YQF-73rLiMPc1G_fvLpZW3Wv30Eca1_NPUtI2c6gua8hlHRd-o0ll",
-    "webhookName": "Flipper",
-    "webhookPFP": "https://cdn.discordapp.com/avatars/486155512568741900/164084b936b4461fe9505398f7383a0e.png?size=4096"
+    "webhookName": "𝙰𝚄𝙲𝚃𝙸𝙾𝙽-𝙵𝙻𝙸𝙿𝚂",
+    "webhookPFP": "https://cdn.discordapp.com/avatars/1032239483401289778/8ea10bd66a3ff20a407061e71ba85d4f.png?size=1024"
   },
   "filters": {
     "rawCraftIgnoreEnchants": {
